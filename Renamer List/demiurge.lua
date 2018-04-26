@@ -163,7 +163,7 @@ ObjectList =
         { 17204102, "Talking Tree" },
         { 17204103, "Talking Tree" },
         { 17204104, "Talking Tree" },
-        { 17204105, "Mega Fungus" },
+        { 17204105, "MegaloCordyceps" },
 
         { 17204207, "Treasure Box" },
         { 17204208, "Treasure Box" },
@@ -570,6 +570,11 @@ ObjectList =
     [123] =
     -- Yuhtunga Jungle
     {
+        { 17281824, "MagiPug" },
+        { 17281825, "MagiPug" },
+        { 17281826, "MagiPug" },
+        { 17281827, "MagiPug" },
+
         { 17282031, "Treasure Box" },
         { 17282032, "Treasure Box" },
         { 17282033, "Treasure Box" },
@@ -719,6 +724,13 @@ ObjectList =
     {
 
         { 17314814, "AutoJailor" }
+    },
+
+    [140] =
+    -- Ghelsba Outpost
+    {
+
+        { 17351556, "Orcish_Mudder" }
     },
 
     [153] =
