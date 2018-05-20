@@ -574,6 +574,7 @@ ObjectList =
         { 17281825, "MagiPug" },
         { 17281826, "MagiPug" },
         { 17281827, "MagiPug" },
+        { 17281828, "DragonPug Gyara" },
 
         { 17282031, "Treasure Box" },
         { 17282032, "Treasure Box" },
