@@ -24,8 +24,8 @@ ObjectList =
     },
     ]]
 
-    [29] =
     -- Riverne - Site #B01
+    [29] =
     {
         { 16896890, "Earth Dwagon" },
         { 16896891, "Earth Dwagon" },
@@ -39,11 +39,9 @@ ObjectList =
         { 16896899, "Earth Dwagon" }
     },
 
-
-    [30] =
     -- Riverne - Site #A01
+    [30] =
     {
-
         { 16900986, "Fire Dwagon" },
         { 16900987, "Fire Dwagon" },
         { 16900988, "Fire Dwagon" },
@@ -56,17 +54,16 @@ ObjectList =
         { 16900995, "Fire Dwagon" }
     },
 
-    [49] =
     -- The Grid - aka GM Test Area
+    [49] =
     {
 
         { 16977921, "Dummy" }
     },
 
-    [100] =
     -- West Ronfaure
+    [100] =
     {
-
         { 17187822, "Treasure Box" },
         { 17187823, "Treasure Box" },
         { 17187824, "Treasure Box" },
@@ -86,11 +83,9 @@ ObjectList =
         { 17187839, "Fishy Mithra" }
     },
 
-
-    [101] =
     -- East Ronfaure
+    [101] =
     {
-
         { 17191919, "Treasure Box" },
         { 17191920, "Treasure Box" },
         { 17191921, "Treasure Box" },
@@ -110,11 +105,9 @@ ObjectList =
         { 17191935, "Fishy Mithra" }
     },
 
-
-    [102] =
     -- La Theine Plateau
+    [102] =
     {
-
         { 17196015, "Treasure Box" },
         { 17196016, "Treasure Box" },
         { 17196017, "Treasure Box" },
@@ -133,8 +126,8 @@ ObjectList =
         { 17196030, "Treasure Box" }
     },
 
-    [103] =
     -- Valkurm Dunes
+    [103] =
     {
         { 17200111, "Treasure Box" },
         { 17200112, "Treasure Box" },
@@ -154,8 +147,8 @@ ObjectList =
         { 17200126, "Treasure Box" }
     },
 
-    [104] =
     -- Jugner Forest
+    [104] =
     {
         { 17204099, "Talking Tree" },
         { 17204100, "Talking Tree" },
@@ -183,8 +176,8 @@ ObjectList =
         { 17204222, "Treasure Box" }
     },
 
-    [105] =
     -- Batallia Downs
+    [105] =
     {
         { 17208303, "Treasure Box" },
         { 17208304, "Treasure Box" },
@@ -204,8 +197,8 @@ ObjectList =
         { 17208318, "Treasure Box" }
     },
 
-    [106] =
     -- North Gustaberg
+    [106] =
     {
         { 17212399, "Treasure Box" },
         { 17212400, "Treasure Box" },
@@ -226,8 +219,8 @@ ObjectList =
         { 17212415, "Fishy Mithra" }
     },
 
-    [107] =
     -- South Gustaberg
+    [107] =
     {
         { 17216495, "Treasure Box" },
         { 17216496, "Treasure Box" },
@@ -248,9 +241,8 @@ ObjectList =
         { 17216511, "Fishy Mithra" }
     },
 
-
-    [108] =
     -- Konschtat Highlands
+    [108] =
     {
         { 17220591, "Treasure Box" },
         { 17220592, "Treasure Box" },
@@ -270,8 +262,8 @@ ObjectList =
         { 17220606, "Treasure Box" }
     },
 
-    [109] =
     -- Pashhow Marshlands
+    [109] =
     {
         { 17224687, "Treasure Box" },
         { 17224688, "Treasure Box" },
@@ -291,8 +283,8 @@ ObjectList =
         { 17224702, "Treasure Box" }
     },
 
-    [110] =
     -- Rolanberry Fields
+    [110] =
     {
         { 17228783, "Treasure Box" },
         { 17228784, "Treasure Box" },
@@ -312,8 +304,8 @@ ObjectList =
         { 17228798, "Treasure Box" }
     },
 
-    [111] =
     -- Beaucedine Glacier
+    [111] =
     {
         { 17232879, "Treasure Box" },
         { 17232880, "Treasure Box" },
@@ -333,8 +325,8 @@ ObjectList =
         { 17232894, "Treasure Box" }
     },
 
-    [112] =
     -- Xarcabard
+    [112] =
     {
         { 17236975, "Treasure Box" },
         { 17236976, "Treasure Box" },
@@ -354,8 +346,8 @@ ObjectList =
         { 17236990, "Treasure Box" }
     },
 
-    [113] =
     -- Cape Teriggan
+    [113] =
     {
         { 17241071, "Treasure Box" },
         { 17241072, "Treasure Box" },
@@ -375,8 +367,8 @@ ObjectList =
         { 17241086, "Treasure Box" }
     },
 
-    [114] =
     -- Eastern Altepa Desert
+    [114] =
     {
         { 17245167, "Treasure Box" },
         { 17245168, "Treasure Box" },
@@ -396,8 +388,8 @@ ObjectList =
         { 17245182, "Treasure Box" }
     },
 
-    [115] =
     -- West Sarutabaruta
+    [115] =
     {
         { 17249263, "Treasure Box" },
         { 17249264, "Treasure Box" },
@@ -418,9 +410,8 @@ ObjectList =
         { 17249279, "Fishy Mithra" }
     },
 
-
-    [116] =
     -- East Sarutabaruta
+    [116] =
     {
         { 17253359, "Treasure Box" },
         { 17253360, "Treasure Box" },
@@ -441,8 +432,8 @@ ObjectList =
         { 17253375, "Fishy Mithra" }
     },
 
-    [117] =
     -- Tahrongi Canyon
+    [117] =
     {
         { 17257455, "Treasure Box" },
         { 17257456, "Treasure Box" },
@@ -462,8 +453,8 @@ ObjectList =
         { 17257470, "Treasure Box" }
     },
 
-    [118] =
     -- Buburimu Peninsula
+    [118] =
     {
         { 17261551, "Treasure Box" },
         { 17261552, "Treasure Box" },
@@ -483,8 +474,8 @@ ObjectList =
         { 17261566, "Treasure Box" }
     },
 
-    [119] =
     -- Meriphataud Mountains
+    [119] =
     {
         { 17265647, "Treasure Box" },
         { 17265648, "Treasure Box" },
@@ -504,8 +495,8 @@ ObjectList =
         { 17265662, "Treasure Box" }
     },
 
-    [120] =
     -- Sauromugue Champaign
+    [120] =
     {
         { 17269743, "Treasure Box" },
         { 17269744, "Treasure Box" },
@@ -525,8 +516,8 @@ ObjectList =
         { 17269758, "Treasure Box" }
     },
 
-    [121] =
     -- The Sanctuary of Zi'Tah
+    [121] =
     {
         { 17273839, "Treasure Box" },
         { 17273840, "Treasure Box" },
@@ -546,8 +537,8 @@ ObjectList =
         { 17273854, "Treasure Box" }
     },
 
-    [122] =
     -- Ro'Maeve
+    [122] =
     {
         { 17277935, "Treasure Box" },
         { 17277936, "Treasure Box" },
@@ -567,8 +558,8 @@ ObjectList =
         { 17277950, "Treasure Box" }
     },
 
-    [123] =
     -- Yuhtunga Jungle
+    [123] =
     {
         { 17281824, "MagiPug" },
         { 17281825, "MagiPug" },
@@ -594,8 +585,8 @@ ObjectList =
         { 17282046, "Treasure Box" }
     },
 
-    [124] =
     -- Yhoator Jungle
+    [124] =
     {
         { 17286127, "Treasure Box" },
         { 17286128, "Treasure Box" },
@@ -615,8 +606,8 @@ ObjectList =
         { 17286142, "Treasure Box" }
     },
 
-    [125] =
     -- Western Altepa Desert
+    [125] =
     {
         { 17290223, "Treasure Box" },
         { 17290224, "Treasure Box" },
@@ -636,8 +627,8 @@ ObjectList =
         { 17290238, "Treasure Box" }
     },
 
-    [126] =
     -- Qufim Island
+    [126] =
     {
         { 17294319, "Treasure Box" },
         { 17294320, "Treasure Box" },
@@ -657,8 +648,8 @@ ObjectList =
         { 17294334, "Treasure Box" }
     },
 
-    [127] =
     -- Behemoth's Dominion
+    [127] =
     {
         { 17298415, "Treasure Box" },
         { 17298416, "Treasure Box" },
@@ -678,8 +669,8 @@ ObjectList =
         { 17298430, "Treasure Box" }
     },
 
-    [128] =
     -- Valley of Sorrows
+    [128] =
     {
         { 17302511, "Treasure Box" },
         { 17302512, "Treasure Box" },
@@ -699,8 +690,8 @@ ObjectList =
         { 17302526, "Treasure Box" }
     },
 
-    [130] =
     -- Ru'Aun Gardens
+    [130] =
     {
         { 17310703, "Treasure Box" },
         { 17310704, "Treasure Box" },
@@ -720,22 +711,22 @@ ObjectList =
         { 17310718, "Treasure Box" }
     },
 
-    [131] =
     -- Mordion Gaol
+    [131] =
     {
 
         { 17314814, "AutoJailor" }
     },
 
-    [140] =
     -- Ghelsba Outpost
+    [140] =
     {
 
         { 17351556, "Orcish_Mudder" }
     },
 
-    [153] =
     -- The Boyahda Tree
+    [153] =
     {
         { 17404911, "Treasure Box" },
         { 17404912, "Treasure Box" },
@@ -755,8 +746,8 @@ ObjectList =
         { 17404926, "Treasure Box" }
     },
 
-    [154] =
     -- Dragon's Aery
+    [154] =
     {
         { 17408890, "Wind Dwagon" },
         { 17408891, "Wind Dwagon" },
@@ -792,8 +783,8 @@ ObjectList =
         { 17421310, "Treasure Box" }
     },
 
-    [158] =
     -- Upper Delkfutt's Tower
+    [158] =
     {
         { 17425391, "Treasure Box" },
         { 17425392, "Treasure Box" },
@@ -813,8 +804,8 @@ ObjectList =
         { 17425406, "Treasure Box" }
     },
 
-    [159] =
     -- Temple of Uggalepih
+    [159] =
     {
         { 17429487, "Treasure Box" },
         { 17429488, "Treasure Box" },
@@ -834,8 +825,8 @@ ObjectList =
         { 17429502, "Treasure Box" }
     },
 
-    [160] =
     -- Den of Rancor
+    [160] =
     {
         { 17433583, "Treasure Box" },
         { 17433584, "Treasure Box" },
@@ -855,8 +846,8 @@ ObjectList =
         { 17433598, "Treasure Box" }
     },
 
-    [166] =
     -- Ranguemont Pass
+    [166] =
     {
         { 17458159, "Treasure Box" },
         { 17458160, "Treasure Box" },
@@ -876,8 +867,8 @@ ObjectList =
         { 17458174, "Treasure Box" }
     },
 
-    [167] =
     -- Bostaunieux Oubliette
+    [167] =
     {
         { 17462255, "Treasure Box" },
         { 17462256, "Treasure Box" },
@@ -897,8 +888,8 @@ ObjectList =
         { 17462270, "Treasure Box" }
     },
 
-    [169] =
     -- Toraimarai Canal
+    [169] =
     {
         { 17470447, "Treasure Box" },
         { 17470448, "Treasure Box" },
@@ -918,8 +909,8 @@ ObjectList =
         { 17470462, "Treasure Box" }
     },
 
-    [172] =
     -- Zeruhn Mines
+    [172] =
     {
         { 17482735, "Treasure Box" },
         { 17482736, "Treasure Box" },
@@ -939,8 +930,8 @@ ObjectList =
         { 17482750, "Treasure Box" }
     },
 
-    [173] =
     -- Korroloka Tunnel
+    [173] =
     {
         { 17486831, "Treasure Box" },
         { 17486832, "Treasure Box" },
@@ -960,8 +951,8 @@ ObjectList =
         { 17486846, "Treasure Box" }
     },
 
-    [174] =
     -- Kuftal Tunnel
+    [174] =
     {
         { 17490927, "Treasure Box" },
         { 17490928, "Treasure Box" },
@@ -981,8 +972,8 @@ ObjectList =
         { 17490942, "Treasure Box" }
     },
 
-    [176] =
     -- Sea Serpent Grotto
+    [176] =
     {
         { 17499119, "Treasure Box" },
         { 17499120, "Treasure Box" },
@@ -1002,8 +993,8 @@ ObjectList =
         { 17499134, "Treasure Box" }
     },
 
-    [177] =
     -- Ve'Lugannon Palace
+    [177] =
     {
         { 17503215, "Treasure Box" },
         { 17503216, "Treasure Box" },
@@ -1023,8 +1014,8 @@ ObjectList =
         { 17503230, "Treasure Box" }
     },
 
-    [178] =
     -- The Shrine of Ru'Avitau
+    [178] =
     {
         { 17507311, "Treasure Box" },
         { 17507312, "Treasure Box" },
@@ -1044,8 +1035,8 @@ ObjectList =
         { 17507326, "Treasure Box" }
     },
 
-    [184] =
     -- Lower Delkfutt's Tower
+    [184] =
     {
         { 17531887, "Treasure Box" },
         { 17531888, "Treasure Box" },
@@ -1065,8 +1056,8 @@ ObjectList =
         { 17531902, "Treasure Box" }
     },
 
-    [190] =
     -- King Ranperre's Tomb
+    [190] =
     {
         { 17556463, "Treasure Box" },
         { 17556464, "Treasure Box" },
@@ -1086,8 +1077,8 @@ ObjectList =
         { 17556478, "Treasure Box" }
     },
 
-    [191] =
     -- Dangruf Wadi
+    [191] =
     {
         { 17560559, "Treasure Box" },
         { 17560560, "Treasure Box" },
@@ -1107,8 +1098,8 @@ ObjectList =
         { 17560574, "Treasure Box" }
     },
 
-    [192] =
     -- Inner Horutoto Ruins
+    [192] =
     {
         { 11756455, "Treasure Box" },
         { 11756456, "Treasure Box" },
@@ -1128,8 +1119,8 @@ ObjectList =
         { 17564670, "Treasure Box" }
     },
 
-    [193] =
     -- Ordelle's Caves
+    [193] =
     {
         { 17568751, "Treasure Box" },
         { 17568752, "Treasure Box" },
@@ -1149,8 +1140,8 @@ ObjectList =
         { 17568766, "Treasure Box" }
     },
 
-    [194] =
     -- Outer Horutoto Ruins
+    [194] =
     {
         { 17572847, "Treasure Box" },
         { 17572848, "Treasure Box" },
@@ -1170,9 +1161,8 @@ ObjectList =
         { 17572862, "Treasure Box" }
     },
 
-
-    [195] =
     -- The Eldieme Necropolis
+    [195] =
     {
         { 17576943, "Treasure Box" },
         { 17576944, "Treasure Box" },
@@ -1192,8 +1182,8 @@ ObjectList =
         { 17576958, "Treasure Box" }
     },
 
-    [196] =
     -- Gusgen Mines
+    [196] =
     {
         { 17581039, "Treasure Box" },
         { 17581040, "Treasure Box" },
@@ -1213,8 +1203,8 @@ ObjectList =
         { 17581054, "Treasure Box" }
     },
 
-    [197] =
     -- Crawlers' Nest
+    [197] =
     {
         { 17585135, "Treasure Box" },
         { 17585136, "Treasure Box" },
@@ -1234,9 +1224,8 @@ ObjectList =
         { 17585150, "Treasure Box" }
     },
 
-
-    [198] =
     -- Maze of Shakhrami
+    [198] =
     {
         { 17589231, "Treasure Box" },
         { 17589232, "Treasure Box" },
@@ -1256,9 +1245,8 @@ ObjectList =
         { 17589246, "Treasure Box" }
     },
 
-
-    [200] =
     -- Garlaige Citadel
+    [200] =
     {
         { 17597423, "Treasure Box" },
         { 17597424, "Treasure Box" },
@@ -1278,8 +1266,8 @@ ObjectList =
         { 17597438, "Treasure Box" }
     },
 
-    [204] =
     -- Fei'Yin
+    [204] =
     {
         { 17613807, "Treasure Box" },
         { 17613808, "Treasure Box" },
@@ -1299,8 +1287,8 @@ ObjectList =
         { 17613822, "Treasure Box" }
     },
 
-    [205] =
     -- Ifrit's Cauldron
+    [205] =
     {
         { 17617903, "Treasure Box" },
         { 17617904, "Treasure Box" },
@@ -1320,8 +1308,8 @@ ObjectList =
         { 17617918, "Treasure Box" }
     },
 
-    [208] =
     -- Quicksand Caves
+    [208] =
     {
         { 17630191, "Treasure Box" },
         { 17630192, "Treasure Box" },
@@ -1341,8 +1329,8 @@ ObjectList =
         { 17630206, "Treasure Box" }
     },
 
-    [212] =
     -- Gustav Tunnel
+    [212] =
     {
         { 17646575, "Treasure Box" },
         { 17646576, "Treasure Box" },
@@ -1362,8 +1350,8 @@ ObjectList =
         { 17646590, "Treasure Box" }
     },
 
-    [213] =
     -- Labyrinth of Onzozo
+    [213] =
     {
         { 17650671, "Treasure Box" },
         { 17650672, "Treasure Box" },
@@ -1383,8 +1371,8 @@ ObjectList =
         { 17650686, "Treasure Box" }
     },
 
-    [245] =
     -- Lower Jeuno
+    [245] =
     {
         { 17781757, "Rope" },
         { 17781758, "Hatch" }
