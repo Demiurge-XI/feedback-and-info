@@ -722,7 +722,7 @@ ObjectList =
     [140] =
     {
 
-        { 17351556, "Orcish_Mudder" }
+        { 17351556, "Orcish Mudder" }
     },
 
     -- The Boyahda Tree
