@@ -725,6 +725,12 @@ ObjectList =
         { 17351556, "Orcish Mudder" }
     },
 
+    -- Castle Oztroja
+    [153] =
+    {
+        { 17396720, "Fishing Hole" }
+    },
+
     -- The Boyahda Tree
     [153] =
     {
