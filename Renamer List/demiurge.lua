@@ -64,7 +64,7 @@ ObjectList =
     -- West Ronfaure
     [100] =
     {
-        { 17187799, "Super_Ghoul" },
+        { 17187799, "Super Ghoul" },
         { 17187800, "N-Ghost" },
         { 17187801, "N-Ghost" },
         { 17187802, "N-Ghost" },
@@ -74,7 +74,7 @@ ObjectList =
         { 17187806, "N-Ghost" },
         { 17187807, "N-Ghost" },
         { 17187808, "N-Ghost" },
-        { 17187809, "Gaol_Turkey" },
+        { 17187809, "Gaol Turkey" },
         { 17187810, "Twinkling_Treant" },
         { 17187811, "Holiday_Gift_Box" },
         { 17187812, "Holiday_Gift_Box" },
@@ -108,7 +108,7 @@ ObjectList =
     -- East Ronfaure
     [101] =
     {
-        { 17191896, "Super_Ghoul" },
+        { 17191896, "Super Ghoul" },
         { 17191897, "N-Ghost" },
         { 17191898, "N-Ghost" },
         { 17191899, "N-Ghost" },
@@ -118,7 +118,7 @@ ObjectList =
         { 17191903, "N-Ghost" },
         { 17191904, "N-Ghost" },
         { 17191905, "N-Ghost" },
-        { 17191906, "Gaol_Turkey" },
+        { 17191906, "Gaol Turkey" },
         { 17191907, "Twinkling_Treant" },
         { 17191908, "Holiday_Gift_Box" },
         { 17191909, "Holiday_Gift_Box" },
@@ -244,7 +244,7 @@ ObjectList =
     -- North Gustaberg
     [106] =
     {
-        { 17212376, "Super_Ghoul" },
+        { 17212376, "Super Ghoul" },
         { 17212377, "N-Ghost" },
         { 17212378, "N-Ghost" },
         { 17212379, "N-Ghost" },
@@ -254,7 +254,7 @@ ObjectList =
         { 17212383, "N-Ghost" },
         { 17212384, "N-Ghost" },
         { 17212385, "N-Ghost" },
-        { 17212386, "Gaol_Turkey" },
+        { 17212386, "Gaol Turkey" },
         { 17212387, "Twinkling_Treant" },
         { 17212388, "Holiday_Gift_Box" },
         { 17212389, "Holiday_Gift_Box" },
@@ -288,7 +288,7 @@ ObjectList =
     -- South Gustaberg
     [107] =
     {
-        { 17216472, "Super_Ghoul" },
+        { 17216472, "Super Ghoul" },
         { 17216473, "N-Ghost" },
         { 17216474, "N-Ghost" },
         { 17216475, "N-Ghost" },
@@ -298,7 +298,7 @@ ObjectList =
         { 17216479, "N-Ghost" },
         { 17216480, "N-Ghost" },
         { 17216481, "N-Ghost" },
-        { 17216482, "Gaol_Turkey" },
+        { 17216482, "Gaol Turkey" },
         { 17216483, "Twinkling_Treant" },
         { 17216484, "Holiday_Gift_Box" },
         { 17216485, "Holiday_Gift_Box" },
@@ -479,7 +479,7 @@ ObjectList =
     -- West Sarutabaruta
     [115] =
     {
-        { 17249240, "Super_Ghoul" },
+        { 17249240, "Super Ghoul" },
         { 17249241, "N-Ghost" },
         { 17249242, "N-Ghost" },
         { 17249243, "N-Ghost" },
@@ -489,7 +489,7 @@ ObjectList =
         { 17249247, "N-Ghost" },
         { 17249248, "N-Ghost" },
         { 17249249, "N-Ghost" },
-        { 17249250, "Gaol_Turkey" },
+        { 17249250, "Gaol Turkey" },
         { 17249251, "Twinkling_Treant" },
         { 17249252, "Holiday_Gift_Box" },
         { 17249253, "Holiday_Gift_Box" },
@@ -523,7 +523,7 @@ ObjectList =
     -- East Sarutabaruta
     [116] =
     {
-        { 17253336, "Super_Ghoul" },
+        { 17253336, "Super Ghoul" },
         { 17253337, "N-Ghost" },
         { 17253338, "N-Ghost" },
         { 17253339, "N-Ghost" },
@@ -533,7 +533,7 @@ ObjectList =
         { 17253343, "N-Ghost" },
         { 17253344, "N-Ghost" },
         { 17253345, "N-Ghost" },
-        { 17253346, "Gaol_Turkey" },
+        { 17253346, "Gaol Turkey" },
         { 17253347, "Twinkling_Treant" },
         { 17253348, "Holiday_Gift_Box" },
         { 17253349, "Holiday_Gift_Box" },
