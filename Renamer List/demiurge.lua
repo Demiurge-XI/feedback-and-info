@@ -64,8 +64,7 @@ ObjectList =
     -- West Ronfaure
     [100] =
     {
-        { 17187799, "Super Ghoul" },
-        { 17187800, "N-Ghost" },
+        { 17187800, "Super Ghoul" },
         { 17187801, "N-Ghost" },
         { 17187802, "N-Ghost" },
         { 17187803, "N-Ghost" },
@@ -74,9 +73,9 @@ ObjectList =
         { 17187806, "N-Ghost" },
         { 17187807, "N-Ghost" },
         { 17187808, "N-Ghost" },
-        { 17187809, "Gaol Turkey" },
-        { 17187810, "Twinkling_Treant" },
-        { 17187811, "Holiday_Gift_Box" },
+        { 17187809, "N-Ghost" },
+        { 17187810, "Gaol Turkey" },
+        { 17187811, "Twinkling_Treant" },
         { 17187812, "Holiday_Gift_Box" },
         { 17187813, "Holiday_Gift_Box" },
         { 17187814, "Holiday_Gift_Box" },
@@ -85,8 +84,9 @@ ObjectList =
         { 17187817, "Holiday_Gift_Box" },
         { 17187818, "Holiday_Gift_Box" },
         { 17187819, "Holiday_Gift_Box" },
-        { 17187820, "Event Mog" },
-        { 17187822, "Treasure Box" },
+        { 17187820, "Holiday_Gift_Box" },
+        { 17187821, "Event Mog" },
+
         { 17187823, "Treasure Box" },
         { 17187824, "Treasure Box" },
         { 17187825, "Treasure Box" },
@@ -101,8 +101,9 @@ ObjectList =
         { 17187834, "Treasure Box" },
         { 17187835, "Treasure Box" },
         { 17187836, "Treasure Box" },
+        { 17187837, "Treasure Box" },
         { 17187838, "Treasure Box" },
-        { 17187839, "Fishy Mithra" }
+        { , "Fishy Mithra" }
     },
 
     -- East Ronfaure
@@ -130,6 +131,7 @@ ObjectList =
         { 17191915, "Holiday_Gift_Box" },
         { 17191916, "Holiday_Gift_Box" },
         { 17191917, "Event Mog" },
+
         { 17191919, "Treasure Box" },
         { 17191920, "Treasure Box" },
         { 17191921, "Treasure Box" },
@@ -500,6 +502,7 @@ ObjectList =
         { 17249258, "Holiday_Gift_Box" },
         { 17249259, "Holiday_Gift_Box" },
         { 17249260, "Holiday_Gift_Box" },
+
         { 17249261, "Event Mog" },
         { 17249263, "Treasure Box" },
         { 17249264, "Treasure Box" },
@@ -545,6 +548,7 @@ ObjectList =
         { 17253355, "Holiday_Gift_Box" },
         { 17253356, "Holiday_Gift_Box" },
         { 17253357, "Event Mog" },
+
         { 17253359, "Treasure Box" },
         { 17253360, "Treasure Box" },
         { 17253361, "Treasure Box" },
