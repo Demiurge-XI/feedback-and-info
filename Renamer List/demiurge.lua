@@ -103,7 +103,7 @@ ObjectList =
         { 17187836, "Treasure Box" },
         { 17187837, "Treasure Box" },
         { 17187838, "Treasure Box" },
-        { , "Fishy Mithra" }
+        { 17187839, "Fishy Mithra" }
     },
 
     -- East Ronfaure
