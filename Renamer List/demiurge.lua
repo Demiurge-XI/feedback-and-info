@@ -74,7 +74,7 @@ ObjectList =
         { 17187807, "N-Ghost" },
         { 17187808, "N-Ghost" },
         { 17187809, "N-Ghost" },
-        { 17187810, "Gaol Turkey" },
+        { 17187810, "Gaol_Turkey" },
         { 17187811, "Twinkling_Treant" },
         { 17187812, "Holiday_Gift_Box" },
         { 17187813, "Holiday_Gift_Box" },
