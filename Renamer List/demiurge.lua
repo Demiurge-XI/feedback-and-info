@@ -705,8 +705,8 @@ ObjectList =
     -- The Sanctuary of Zi'Tah
     [121] =
     {
-        { 17273632, qm_unicorn" },
-        { 17273633, Unicorn" },
+        { 17273632, "qm_unicorn" },
+        { 17273633, "Unicorn" },
         --
         { 17273839, "Treasure Box" },
         { 17273840, "Treasure Box" },
@@ -914,7 +914,7 @@ ObjectList =
     -- Ghelsba Outpost
     [140] =
     {
-        { 17351456, "Orc-Biter" }
+        { 17351456, "Orc-Biter" },
         --
         { 17351556, "Orcish Mudder" }
     },
