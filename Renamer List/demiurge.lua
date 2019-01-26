@@ -24,6 +24,42 @@ ObjectList =
     },
     ]]
 
+    -- Carpenters' Landing
+    [2] =
+    {
+        { 16786208, "Beetle-Eater" }
+    },
+
+    -- Attohwa Chasm
+    [7] =
+    {
+        { 16806688, "Excavated_Chest" }
+    },
+
+    -- Oldton Movalpolos
+    [11] =
+    {
+        { 16823072, "Goblin_Tunneler" }
+    },
+
+    -- Newton Movalpolos
+    [12] =
+    {
+        { 16827168, "Moblin_Tunneler" }
+    },
+
+    -- Lufaise Meadows
+    [24] =
+    {
+        { 16876320, "Thunderbug" }
+    },
+
+    -- Misareaux Coast
+    [25] =
+    {
+        { 16880416, "Thunderbug" }
+    },
+
     -- Riverne - Site #B01
     [29] =
     {
@@ -57,13 +93,14 @@ ObjectList =
     -- The Grid - aka GM Test Area
     [49] =
     {
-
         { 16977921, "Dummy" }
     },
 
     -- West Ronfaure
     [100] =
     {
+        { 17187616, "Pompilid_Wasp" },
+        --
         { 17187800, "Super Ghoul" },
         { 17187801, "N-Ghost" },
         { 17187802, "N-Ghost" },
@@ -109,6 +146,8 @@ ObjectList =
     -- East Ronfaure
     [101] =
     {
+        { 17191712, "Mogtrap" },
+        --
         { 17191896, "Super Ghoul" },
         { 17191897, "N-Ghost" },
         { 17191898, "N-Ghost" },
@@ -196,6 +235,8 @@ ObjectList =
     -- Jugner Forest
     [104] =
     {
+        { 17204000, "Goblin_Climber" },
+        --
         { 17204099, "Talking Tree" },
         { 17204100, "Talking Tree" },
         { 17204101, "Talking Tree" },
@@ -203,7 +244,7 @@ ObjectList =
         { 17204103, "Talking Tree" },
         { 17204104, "Talking Tree" },
         { 17204105, "MegaloCordyceps" },
-
+        --
         { 17204207, "Treasure Box" },
         { 17204208, "Treasure Box" },
         { 17204209, "Treasure Box" },
@@ -246,6 +287,9 @@ ObjectList =
     -- North Gustaberg
     [106] =
     {
+        { 17212191 "qm_toothfairy" },
+        { 17212192 "ToothFairy" },
+        --
         { 17212376, "Super Ghoul" },
         { 17212377, "N-Ghost" },
         { 17212378, "N-Ghost" },
@@ -573,6 +617,8 @@ ObjectList =
     -- Tahrongi Canyon
     [117] =
     {
+        { 17257248, "Excavated_Chest" },
+        --
         { 17257455, "Treasure Box" },
         { 17257456, "Treasure Box" },
         { 17257457, "Treasure Box" },
@@ -594,6 +640,8 @@ ObjectList =
     -- Buburimu Peninsula
     [118] =
     {
+        { 17261344, "Scrat" },
+        --
         { 17261551, "Treasure Box" },
         { 17261552, "Treasure Box" },
         { 17261553, "Treasure Box" },
@@ -657,6 +705,9 @@ ObjectList =
     -- The Sanctuary of Zi'Tah
     [121] =
     {
+        { 17273632, qm_unicorn" },
+        { 17273633, Unicorn" },
+        --
         { 17273839, "Treasure Box" },
         { 17273840, "Treasure Box" },
         { 17273841, "Treasure Box" },
@@ -704,7 +755,9 @@ ObjectList =
         { 17281826, "MagiPug" },
         { 17281827, "MagiPug" },
         { 17281828, "DragonPug Gyara" },
-
+        { 17281829, "Ctenizidae" },
+        { 17281830, "Bird-Eater" },
+        --
         { 17282031, "Treasure Box" },
         { 17282032, "Treasure Box" },
         { 17282033, "Treasure Box" },
@@ -726,6 +779,9 @@ ObjectList =
     -- Yhoator Jungle
     [124] =
     {
+        { 17285920, "Deadly_Swarm" },
+        { 17285921, "Man-Eater_Moth" },
+        --
         { 17286127, "Treasure Box" },
         { 17286128, "Treasure Box" },
         { 17286129, "Treasure Box" },
@@ -852,15 +908,33 @@ ObjectList =
     -- Mordion Gaol
     [131] =
     {
-
         { 17314814, "AutoJailor" }
     },
 
     -- Ghelsba Outpost
     [140] =
     {
-
+        { 17351456, "Orc-Biter" }
+        --
         { 17351556, "Orcish Mudder" }
+    },
+
+    -- Yughott Grotto
+    [142] =
+    {
+        { 17359648, "Lost_Rabbit" }
+    },
+
+    -- Palborough Mines
+    [143] =
+    {
+        { 17363744, "Massive_Mole" }
+    },
+
+-- Giddeus
+    [145] =
+    {
+        { 17371936, "Yagudo-Biter" }
     },
 
     -- Castle Oztroja
@@ -1056,6 +1130,8 @@ ObjectList =
     -- Zeruhn Mines
     [172] =
     {
+        { 17482528, "Giant_Amoeba" },
+        --
         { 17482735, "Treasure Box" },
         { 17482736, "Treasure Box" },
         { 17482737, "Treasure Box" },
@@ -1077,6 +1153,8 @@ ObjectList =
     -- Korroloka Tunnel
     [173] =
     {
+        { 17486624, "Excavated_Chest" },
+        --
         { 17486831, "Treasure Box" },
         { 17486832, "Treasure Box" },
         { 17486833, "Treasure Box" },
@@ -1329,6 +1407,8 @@ ObjectList =
     -- Gusgen Mines
     [196] =
     {
+        { 17580832, "Exploding_Curse" },
+        --
         { 17581039, "Treasure Box" },
         { 17581040, "Treasure Box" },
         { 17581041, "Treasure Box" },
@@ -1371,6 +1451,8 @@ ObjectList =
     -- Maze of Shakhrami
     [198] =
     {
+        { 17589024, "Excavated_Chest" },
+        --
         { 17589231, "Treasure Box" },
         { 17589232, "Treasure Box" },
         { 17589233, "Treasure Box" },
@@ -1434,6 +1516,8 @@ ObjectList =
     -- Ifrit's Cauldron
     [205] =
     {
+        { 17617696, "RockBombCrag" },
+        --
         { 17617903, "Treasure Box" },
         { 17617904, "Treasure Box" },
         { 17617905, "Treasure Box" },
