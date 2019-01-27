@@ -287,7 +287,7 @@ ObjectList =
     -- North Gustaberg
     [106] =
     {
-        { 17212191, "qm_toothfairy" },
+        { 17212191, "???" },
         { 17212192, "ToothFairy" },
         --
         { 17212376, "Super Ghoul" },
