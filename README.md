@@ -13,5 +13,5 @@
 
 ### Lost password or usernames
 
-*  If you wish to request a password reset, you will need to reach Teo in the `#general` channel on Discord.
+*  If you wish to request a password reset, you will need to reach Teo in the `#general` channel on [Discord](https://discord.gg/SSU3HMq).
 <br>**_TAKE CARE OF YOUR ACCOUNT INFO as you cannot always have it reset or retrieved! Loss of data is possible!_**
