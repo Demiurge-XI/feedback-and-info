@@ -33,6 +33,16 @@ ObjectList =
     -- Attohwa Chasm
     [7] =
     {
+        { 16806678, "Cradlecampa" },
+        { 16806679, "Miasmoura" },
+        { 16806680, "Cradlecampa" },
+        { 16806681, "Miasmoura" },
+        { 16806682, "Cradlecampa" },
+        { 16806683, "Miasmoura" },
+        { 16806684, "Cradlecampa" },
+        { 16806685, "Miasmoura" },
+        { 16806686, "Megalopygidae" },
+        { 16806687, "Excavated Chest" },
         { 16806688, "Excavated Chest" }
     },
 
@@ -617,6 +627,7 @@ ObjectList =
     -- Tahrongi Canyon
     [117] =
     {
+        { 17257247, "Excavated Chest" },
         { 17257248, "Excavated Chest" },
         --
         { 17257455, "Treasure Box" },
@@ -779,6 +790,12 @@ ObjectList =
     -- Yhoator Jungle
     [124] =
     {
+        { 17285914, "Junglecampa" },
+        { 17285915, "Caligomoura" },
+        { 17285916, "Junglecampa" },
+        { 17285917, "Caligomoura" },
+        { 17285918, "Junglecampa" },
+        { 17285919, "Caligomoura" },
         { 17285920, "Deadly Swarm" },
         { 17285921, "Man-Eater Moth" },
         --
@@ -1153,6 +1170,7 @@ ObjectList =
     -- Korroloka Tunnel
     [173] =
     {
+        { 17486623, "Excavated Chest" },
         { 17486624, "Excavated Chest" },
         --
         { 17486831, "Treasure Box" },
@@ -1451,6 +1469,7 @@ ObjectList =
     -- Maze of Shakhrami
     [198] =
     {
+        { 17589023, "Excavated Chest" },
         { 17589024, "Excavated Chest" },
         --
         { 17589231, "Treasure Box" },
