@@ -411,6 +411,8 @@ ObjectList =
     -- Pashhow Marshlands
     [109] =
     {
+        { 17224379, "Hahabubu" },
+        --
         { 17224687, "Treasure Box" },
         { 17224688, "Treasure Box" },
         { 17224689, "Treasure Box" },
@@ -453,6 +455,27 @@ ObjectList =
     -- Beaucedine Glacier
     [111] =
     {
+        { 17232422, "Eudyptes" },
+        { 17232423, "Eudyptes" },
+        { 17232424, "Eudyptes" },
+        { 17232425, "Eudyptes" },
+        { 17232426, "Eudyptes" },
+        { 17232427, "Eudyptes" },
+        { 17232428, "Eudyptes" },
+        { 17232429, "Eudyptes" },
+        { 17232430, "Eudyptes" },
+        { 17232431, "Eudyptes" },
+        { 17232432, "Eudyptes" },
+        { 17232433, "Eudyptes" },
+        { 17232434, "Eudyptes" },
+        { 17232435, "Eudyptes" },
+        { 17232436, "Eudyptes" },
+        { 17232437, "Eudyptes" },
+        { 17232438, "Eudyptes" },
+        { 17232439, "Eudyptes" },
+        { 17232440, "Eudyptes" },
+        { 17232441, "Harvey" },
+        --
         { 17232879, "Treasure Box" },
         { 17232880, "Treasure Box" },
         { 17232881, "Treasure Box" },
@@ -761,6 +784,16 @@ ObjectList =
     -- Yuhtunga Jungle
     [123] =
     {
+        { 17281814, "MagiPug" },
+        { 17281815, "MagiPug" },
+        { 17281816, "MagiPug" },
+        { 17281817, "MagiPug" },
+        { 17281818, "MagiPug" },
+        { 17281819, "MagiPug" },
+        { 17281820, "MagiPug" },
+        { 17281821, "MagiPug" },
+        { 17281822, "MagiPug" },
+        { 17281823, "MagiPug" },
         { 17281824, "MagiPug" },
         { 17281825, "MagiPug" },
         { 17281826, "MagiPug" },
