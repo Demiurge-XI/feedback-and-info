@@ -70,6 +70,12 @@ ObjectList =
         { 16880416, "Thunderbug" }
     },
 
+    -- Sacrarium
+    [28] =
+    {
+        { 16892603, "Ziska" }
+    },
+
     -- Riverne - Site #B01
     [29] =
     {
@@ -110,6 +116,8 @@ ObjectList =
     [100] =
     {
         { 17187616, "Pompilid Wasp" },
+        --
+        { 17187670, "Dr. Mog" },
         --
         { 17187800, "Super Ghoul" },
         { 17187801, "N-Ghost" },
@@ -157,6 +165,8 @@ ObjectList =
     [101] =
     {
         { 17191712, "Mogtrap" },
+        --
+        { 17191766, "Dr. Mog" },
         --
         { 17191896, "Super Ghoul" },
         { 17191897, "N-Ghost" },
@@ -300,6 +310,8 @@ ObjectList =
         { 17212191, "???" },
         { 17212192, "ToothFairy" },
         --
+        { 17212246, "Dr. Mog" },
+        --
         { 17212376, "Super Ghoul" },
         { 17212377, "N-Ghost" },
         { 17212378, "N-Ghost" },
@@ -345,6 +357,8 @@ ObjectList =
     -- South Gustaberg
     [107] =
     {
+        { 17216342, "Dr. Mog" },
+        --
         { 17216472, "Super Ghoul" },
         { 17216473, "N-Ghost" },
         { 17216474, "N-Ghost" },
@@ -560,6 +574,8 @@ ObjectList =
     -- West Sarutabaruta
     [115] =
     {
+        { 17249110, "Dr. Mog" },
+        --
         { 17249240, "Super Ghoul" },
         { 17249241, "N-Ghost" },
         { 17249242, "N-Ghost" },
@@ -605,6 +621,8 @@ ObjectList =
     -- East Sarutabaruta
     [116] =
     {
+        { 17253206, "Dr. Mog" },
+        --
         { 17253336, "Super Ghoul" },
         { 17253337, "N-Ghost" },
         { 17253338, "N-Ghost" },
@@ -981,7 +999,7 @@ ObjectList =
         { 17363744, "Massive Mole" }
     },
 
--- Giddeus
+    -- Giddeus
     [145] =
     {
         { 17371936, "Yagudo-Biter" }
