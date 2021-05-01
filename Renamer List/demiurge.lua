@@ -423,9 +423,10 @@ ObjectList =
     },
 
     -- Pashhow Marshlands
+    -- We have fewer free IDs than usual since there are literally 700 of them used by the stock dats!
     [109] =
     {
-        { 17224379, "Hahabubu" },
+        { 17224480, "Hahabubu" },
         --
         { 17224687, "Treasure Box" },
         { 17224688, "Treasure Box" },
