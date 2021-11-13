@@ -1,33 +1,15 @@
---[[
-    --------------------------------------------------------------------------
-    Notes:
-
-      Each zone has a maximum of 4095 entities.
-      The first entry of each zone is a Dummy, the next 1023 are usable as NPC's or Monsters.
-      Most zones don't even come anywhere close to using even half that.
-      After that are 2 more segments, one for players and one for temporary objects (like pets).
-
-      Maximum name length is 28 characters. Don't forget the comma after each entry!
-
-    --------------------------------------------------------------------------
-]]
-
 ObjectList =
 {
-    --[[
-    [zone ID] =
-    -- EXAMPLE
-    {
-        { object ID, "name" },
-        { object ID, "name" },
-        { object ID, "name" }
-    },
-    ]]
-
     -- Carpenters' Landing
     [2] =
     {
         { 16786208, "Beetle-Eater" }
+    },
+
+    -- Uleguerand Range
+    [5] =
+    {
+        { 16798596, "Blizzard Lizard" },
     },
 
     -- Attohwa Chasm
@@ -307,6 +289,16 @@ ObjectList =
     -- North Gustaberg
     [106] =
     {
+        { 17212181, "Brock Lizard" },
+        { 17212182, "Brock Lizard" },
+        { 17212183, "Brock Lizard" },
+        { 17212184, "Brock Lizard" },
+        { 17212185, "Brock Lizard" },
+        { 17212186, "Brock Lizard" },
+        { 17212187, "Brock Lizard" },
+        { 17212188, "Brock Lizard" },
+        { 17212189, "Brock Lizard" },
+        { 17212190, "Molting Samson" },
         { 17212191, "???" },
         { 17212192, "ToothFairy" },
         --
@@ -803,6 +795,12 @@ ObjectList =
     -- Yuhtunga Jungle
     [123] =
     {
+        { 17281808, "MagiPug" },
+        { 17281809, "MagiPug" },
+        { 17281810, "MagiPug" },
+        { 17281811, "MagiPug" },
+        { 17281812, "MagiPug" },
+        { 17281813, "MagiPug" },
         { 17281814, "MagiPug" },
         { 17281815, "MagiPug" },
         { 17281816, "MagiPug" },
@@ -817,7 +815,7 @@ ObjectList =
         { 17281825, "MagiPug" },
         { 17281826, "MagiPug" },
         { 17281827, "MagiPug" },
-        { 17281828, "DragonPug Gyara" },
+        { 17281828, "DragonPug_Gyara" },
         { 17281829, "Ctenizidae" },
         { 17281830, "Bird-Eater" },
         --
@@ -872,6 +870,9 @@ ObjectList =
     -- Western Altepa Desert
     [125] =
     {
+        { 17290116, "Wet Sands" },
+        { 17290117, "Tamano Tres" },
+        --
         { 17290223, "Treasure Box" },
         { 17290224, "Treasure Box" },
         { 17290225, "Treasure Box" },
@@ -1675,5 +1676,11 @@ ObjectList =
     {
         { 17781757, "Rope" },
         { 17781758, "Hatch" }
-    }
+    },
+
+    -- Rabao
+    [247] =
+    {
+        { 17789828, "Cacti Researcher" }
+    },
 };
