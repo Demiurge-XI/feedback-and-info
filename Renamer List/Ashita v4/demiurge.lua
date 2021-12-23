@@ -10,6 +10,21 @@ return T{
     -- Uleguerand Range
     [5] = T{
         T{ 16798596, "Blizzard Lizard" },
+        T{ 16798597, "Wooly Marid" },
+        T{ 16798598, "Wooly Marid" },
+        T{ 16798599, "Wooly Marid" },
+        T{ 16798600, "Wooly Marid" },
+        T{ 16798601, "Wooly Marid" },
+        T{ 16798602, "Wooly Marid" },
+        T{ 16798603, "Wooly Marid" },
+        T{ 16798604, "Wooly Marid" },
+        T{ 16798605, "Wooly Marid" },
+        T{ 16798606, "Wooly Marid" },
+        T{ 16798607, "Wooly Marid" },
+        T{ 16798608, "Wooly Marid" },
+        T{ 16798609, "Wooly Marid" },
+        T{ 16798610, "Wooly Marid" },
+        T{ 16798611, "Wooly Marid" },
     },
 
     -- Attohwa Chasm

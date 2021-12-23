@@ -10,6 +10,21 @@ ObjectList =
     [5] =
     {
         { 16798596, "Blizzard Lizard" },
+        { 16798597, "Wooly Marid" },
+        { 16798598, "Wooly Marid" },
+        { 16798599, "Wooly Marid" },
+        { 16798600, "Wooly Marid" },
+        { 16798601, "Wooly Marid" },
+        { 16798602, "Wooly Marid" },
+        { 16798603, "Wooly Marid" },
+        { 16798604, "Wooly Marid" },
+        { 16798605, "Wooly Marid" },
+        { 16798606, "Wooly Marid" },
+        { 16798607, "Wooly Marid" },
+        { 16798608, "Wooly Marid" },
+        { 16798609, "Wooly Marid" },
+        { 16798610, "Wooly Marid" },
+        { 16798611, "Wooly Marid" },
     },
 
     -- Attohwa Chasm
