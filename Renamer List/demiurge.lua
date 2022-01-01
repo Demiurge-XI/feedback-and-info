@@ -433,7 +433,8 @@ ObjectList =
     -- We have fewer free IDs than usual since there are literally 700 of them used by the stock dats!
     [109] =
     {
-        { 17224480, "Hahabubu" },
+        { 17224480, "Habuhabu" },
+        { 17224481, "King_Hahabubu" },
         --
         { 17224687, "Treasure Box" },
         { 17224688, "Treasure Box" },

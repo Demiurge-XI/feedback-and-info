@@ -405,7 +405,8 @@ return T{
     -- Pashhow Marshlands
     -- We have fewer free IDs than usual since there are literally 700 of them used by the stock dats!
     [109] = T{
-        T{ 17224480, "Hahabubu" },
+        T{ 17224480, "Habuhabu" },
+        T{ 17224481, "King_Hahabubu" },
         T{ 17224687, "Treasure Box" },
         T{ 17224688, "Treasure Box" },
         T{ 17224689, "Treasure Box" },
