@@ -1517,6 +1517,8 @@ ObjectList =
     -- Crawlers' Nest
     [197] =
     {
+        { 17584927, "Malfunction" },
+        { 17585077, "Weather Control" },
         { 17585135, "Treasure Box" },
         { 17585136, "Treasure Box" },
         { 17585137, "Treasure Box" },

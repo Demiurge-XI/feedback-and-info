@@ -1425,6 +1425,8 @@ return T{
 
     -- Crawlers' Nest
     [197] = T{
+        T{ 17584927, "Malfunction" },
+        T{ 17585077, "Weather Control" },
         T{ 17585135, "Treasure Box" },
         T{ 17585136, "Treasure Box" },
         T{ 17585137, "Treasure Box" },
