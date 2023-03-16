@@ -42,6 +42,22 @@ return T{
         T{ 16806688, "Excavated Chest" },
     },
 
+    -- Pso'Xja
+    [9] = T{
+        T{ 16814830, "Ancient_Gargouille" },
+        T{ 16814831, "Ancient_Gargouille" },
+        T{ 16814832, "Ancient_Gargouille" },
+        T{ 16814833, "Ancient_Gargouille" },
+        T{ 16814834, "Ancient_Gargouille" },
+        T{ 16814835, "Ancient_Gargouille" },
+        T{ 16814836, "Ancient_Gargouille" },
+        T{ 16814837, "Ancient_Gargouille" },
+        T{ 16814980, "warp-hole" },
+        T{ 16814981, "" }, -- Blank, intentionally
+        T{ 16814982, "" }, -- Blank, intentionally
+        T{ 16814983, "" }, -- Blank, intentionally
+    },
+
     -- Oldton Movalpolos
     [11] = T{
         T{ 16823072, "Goblin Tunneler" },
@@ -467,6 +483,14 @@ return T{
         T{ 17232439, "Eudyptes" },
         T{ 17232440, "Eudyptes" },
         T{ 17232441, "Harvey" },
+        T{ 17232442, "Avenger" },
+        T{ 17232443, "Elderly_Ruszor" },
+        T{ 17232444, "Elderly_Ruszor" },
+        T{ 17232445, "Elderly_Ruszor" },
+        T{ 17232446, "Elderly_Ruszor" },
+        T{ 17232447, "Elderly_Ruszor" },
+        T{ 17232448, "Elderly_Ruszor" },
+        T{ 17232449, "Elderly_Ruszor" },
         T{ 17232879, "Treasure Box" },
         T{ 17232880, "Treasure Box" },
         T{ 17232881, "Treasure Box" },

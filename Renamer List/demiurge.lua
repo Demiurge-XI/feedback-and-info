@@ -43,6 +43,24 @@ ObjectList =
         { 16806688, "Excavated Chest" }
     },
 
+    -- Pso'Xja
+    [9] =
+    {
+        { 16814830, "Ancient_Gargouille" },
+        { 16814831, "Ancient_Gargouille" },
+        { 16814832, "Ancient_Gargouille" },
+        { 16814833, "Ancient_Gargouille" },
+        { 16814834, "Ancient_Gargouille" },
+        { 16814835, "Ancient_Gargouille" },
+        { 16814836, "Ancient_Gargouille" },
+        { 16814837, "Ancient_Gargouille" },
+        --
+        { 16814980, "warp-hole" },
+        { 16814981, "" }, -- Blank, intentionally
+        { 16814982, "" }, -- Blank, intentionally
+        { 16814983, "" }, -- Blank, intentionally
+    },
+
     -- Oldton Movalpolos
     [11] =
     {
@@ -498,6 +516,14 @@ ObjectList =
         { 17232439, "Eudyptes" },
         { 17232440, "Eudyptes" },
         { 17232441, "Harvey" },
+        { 17232442, "Avenger" },
+        { 17232443, "Elderly_Ruszor" },
+        { 17232444, "Elderly_Ruszor" },
+        { 17232445, "Elderly_Ruszor" },
+        { 17232446, "Elderly_Ruszor" },
+        { 17232447, "Elderly_Ruszor" },
+        { 17232448, "Elderly_Ruszor" },
+        { 17232449, "Elderly_Ruszor" },
         --
         { 17232879, "Treasure Box" },
         { 17232880, "Treasure Box" },
