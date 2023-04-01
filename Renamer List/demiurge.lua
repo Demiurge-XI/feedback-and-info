@@ -6,6 +6,14 @@ ObjectList =
         { 16786208, "Beetle-Eater" }
     },
 
+    -- Bibiki Bay
+    [4] =
+    {
+        { 16794497, "Homepoint" },
+        { 16794498, "Broken_Telepoint" },
+        { 16794499, "Elemental Upswell" }
+    },
+
     -- Uleguerand Range
     [5] =
     {

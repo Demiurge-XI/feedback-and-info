@@ -7,6 +7,14 @@ return T{
         T{ 16786208, "Beetle-Eater" },
     },
 
+
+    -- Bibiki Bay
+    [4] = T{
+        T{ 16794497, "Homepoint" },
+        T{ 16794498, "Broken_Telepoint" },
+        T{ 16794499, "Elemental Upswell" }
+    },
+
     -- Uleguerand Range
     [5] = T{
         T{ 16798596, "Blizzard Lizard" },
