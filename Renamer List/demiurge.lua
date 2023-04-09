@@ -129,6 +129,12 @@ ObjectList =
         { 16900995, "Fire Dwagon" }
     },
 
+    -- Al'Taieu
+    [33] =
+    {
+        { 16913183, "Uhluhtc" }
+    },
+
     -- The Grid - aka GM Test Area
     [49] =
     {
@@ -1007,6 +1013,8 @@ ObjectList =
     -- Ru'Aun Gardens
     [130] =
     {
+        { 16913183, "Sky Horror" },
+
         { 17310703, "Treasure Box" },
         { 17310704, "Treasure Box" },
         { 17310705, "Treasure Box" },
@@ -1721,6 +1729,24 @@ ObjectList =
         { 17650684, "Treasure Box" },
         { 17650685, "Treasure Box" },
         { 17650686, "Treasure Box" }
+    },
+
+    -- San d'Oria-Jeuno Airship
+    [223] =
+    {
+        { 17691423, "Air_Horror" }
+    },
+
+    -- Bastok-Jeuno Airship
+    [224] =
+    {
+        { 17695519, "Air_Horror" }
+    },
+
+    -- Windurst-Jeuno Airship
+    [225] =
+    {
+        { 17699615, "Air_Horror" }
     },
 
     -- Lower Jeuno

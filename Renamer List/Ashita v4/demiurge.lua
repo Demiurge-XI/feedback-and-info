@@ -119,6 +119,11 @@ return T{
         T{ 16900995, "Fire Dwagon" },
     },
 
+    -- Al'Taieu
+    [33] = T{
+        T{ 16913183, "Uhluhtc" }
+    },
+
     -- The Grid - aka GM Test Area
     [49] = T{
         T{ 16977921, "Dummy" },
@@ -947,6 +952,7 @@ return T{
 
     -- Ru'Aun Gardens
     [130] = T{
+        T{ 17310495, "Sky Horror" },
         T{ 17310703, "Treasure Box" },
         T{ 17310704, "Treasure Box" },
         T{ 17310705, "Treasure Box" },
@@ -1618,6 +1624,21 @@ return T{
         T{ 17650684, "Treasure Box" },
         T{ 17650685, "Treasure Box" },
         T{ 17650686, "Treasure Box" },
+    },
+
+    -- San d'Oria-Jeuno Airship
+    [223] = T{
+        T{ 17691423, "Air_Horror" }
+    },
+
+    -- Bastok-Jeuno Airship
+    [224] = T{
+        T{ 17695519, "Air_Horror" }
+    },
+
+    -- Windurst-Jeuno Airship
+    [225] = T{
+        T{ 17699615, "Air_Horror" }
     },
 
     -- Lower Jeuno
