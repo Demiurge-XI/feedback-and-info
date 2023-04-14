@@ -1013,7 +1013,7 @@ ObjectList =
     -- Ru'Aun Gardens
     [130] =
     {
-        { 16913183, "Sky Horror" },
+        { 17310495, "Sky Horror" },
 
         { 17310703, "Treasure Box" },
         { 17310704, "Treasure Box" },
