@@ -10,7 +10,7 @@ ObjectList =
     [4] =
     {
         { 16794497, "Homepoint" },
-        { 16794498, "Broken_Telepoint" },
+        { 16794498, "Broken Telepoint" },
         { 16794499, "Elemental Upswell" }
     },
 
@@ -466,7 +466,7 @@ ObjectList =
     [109] =
     {
         { 17224480, "Habuhabu" },
-        { 17224481, "King_Hahabubu" },
+        { 17224481, "King Hahabubu" },
         --
         { 17224687, "Treasure Box" },
         { 17224688, "Treasure Box" },
@@ -871,7 +871,7 @@ ObjectList =
         { 17281825, "MagiPug" },
         { 17281826, "MagiPug" },
         { 17281827, "MagiPug" },
-        { 17281828, "DragonPug_Gyara" },
+        { 17281828, "DragonPug Gyara" },
         { 17281829, "Ctenizidae" },
         { 17281830, "Bird-Eater" },
         --
@@ -1734,19 +1734,19 @@ ObjectList =
     -- San d'Oria-Jeuno Airship
     [223] =
     {
-        { 17691423, "Air_Horror" }
+        { 17691423, "Air Horror" }
     },
 
     -- Bastok-Jeuno Airship
     [224] =
     {
-        { 17695519, "Air_Horror" }
+        { 17695519, "Air Horror" }
     },
 
     -- Windurst-Jeuno Airship
     [225] =
     {
-        { 17699615, "Air_Horror" }
+        { 17699615, "Air Horror" }
     },
 
     -- Lower Jeuno

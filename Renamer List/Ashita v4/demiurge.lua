@@ -11,7 +11,7 @@ return T{
     -- Bibiki Bay
     [4] = T{
         T{ 16794497, "Homepoint" },
-        T{ 16794498, "Broken_Telepoint" },
+        T{ 16794498, "Broken Telepoint" },
         T{ 16794499, "Elemental Upswell" }
     },
 
@@ -435,7 +435,7 @@ return T{
     -- We have fewer free IDs than usual since there are literally 700 of them used by the stock dats!
     [109] = T{
         T{ 17224480, "Habuhabu" },
-        T{ 17224481, "King_Hahabubu" },
+        T{ 17224481, "King Hahabubu" },
         T{ 17224687, "Treasure Box" },
         T{ 17224688, "Treasure Box" },
         T{ 17224689, "Treasure Box" },
@@ -819,7 +819,7 @@ return T{
         T{ 17281825, "MagiPug" },
         T{ 17281826, "MagiPug" },
         T{ 17281827, "MagiPug" },
-        T{ 17281828, "DragonPug_Gyara" },
+        T{ 17281828, "DragonPug Gyara" },
         T{ 17281829, "Ctenizidae" },
         T{ 17281830, "Bird-Eater" },
         T{ 17282031, "Treasure Box" },
@@ -1628,17 +1628,17 @@ return T{
 
     -- San d'Oria-Jeuno Airship
     [223] = T{
-        T{ 17691423, "Air_Horror" }
+        T{ 17691423, "Air Horror" }
     },
 
     -- Bastok-Jeuno Airship
     [224] = T{
-        T{ 17695519, "Air_Horror" }
+        T{ 17695519, "Air Horror" }
     },
 
     -- Windurst-Jeuno Airship
     [225] = T{
-        T{ 17699615, "Air_Horror" }
+        T{ 17699615, "Air Horror" }
     },
 
     -- Lower Jeuno
